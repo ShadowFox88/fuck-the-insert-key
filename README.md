@@ -18,7 +18,7 @@ starts up.
 4. Open a Run window (`Win+R`)
 5. Go to the startup folder for your user - type `shell:startup` and hit Enter
 6. Copy the `.AHK` file into the folder
-7. Open Task Manager (`Ctrl+Shift+Esc``)
+7. Open Task Manager (`Ctrl+Shift+Esc`)
 8. Make sure it starts up
    ![How the fuck do I do that? Well here's how!](https://i.imgur.com/htp49w5.png)
 
