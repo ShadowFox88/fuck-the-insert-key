@@ -8,7 +8,7 @@ have the thing for you.
 
 1. Install [AutoHotKey](https://www.autohotkey.com)
 2. Download this repo as a ZIP
-   [!It's right fucking there!](https://i.imgur.com/dfOeASu.png)
+   ![It's right fucking there!](https://i.imgur.com/dfOeASu.png)
 3. Run the `.AHK` file
 
 Congrats, you kicked the Insert key out of it's own home. Good job! But we're not done yet.
@@ -20,7 +20,7 @@ starts up.
 6. Copy the `.AHK` file into the folder
 7. Open Task Manager (`Ctrl+Shift+Esc``)
 8. Make sure it starts up
-   [!How the fuck do I do that? Well here's how!](https://i.imgur.com/htp49w5.png)
+   ![How the fuck do I do that? Well here's how!](https://i.imgur.com/htp49w5.png)
 
 Now the Insert key _definitely_ has no home, and you made sure of that! Way to go, you fucking monster!
 
