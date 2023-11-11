@@ -26,9 +26,9 @@ Now the Insert key _definitely_ has no home, and you made sure of that! Way to g
 
 ### Issues
 
-**Run into any problems?** Make an issue on the repo.
-**Setup doesn't work?** I'm not tech support but I'll see what I can do - no promises.
-**Don't like me?** Go fuck yourself.
+- **Run into any problems?** Make an issue on the repo.
+- **Setup doesn't work?** I'm not tech support but I'll see what I can do - no promises.
+- **Don't like me?** Go fuck yourself.
 
 ### License
 
